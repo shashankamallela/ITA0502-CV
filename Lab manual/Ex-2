@@ -1,0 +1,6 @@
+Aim: To read an image in Python and apply Gaussian Blur to reduce noise and smooth the image.
+Observation:
+- The original image contains sharp edges and fine details.
+- After applying Gaussian Blur, the image becomes smoother.
+- Small details and noise are reduced.
+Result: Gaussian Blur was successfully applied to the input image, reducing noise and producing a smoother image.
