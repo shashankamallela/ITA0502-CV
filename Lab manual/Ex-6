@@ -1,0 +1,6 @@
+Aim: To read an image in Python and perform morphological erosion using the OpenCV erode() function.
+Observation:
+- Erosion reduces the size of foreground objects in a binary image.
+- Small white regions and thin structures may disappear.
+- The boundaries of foreground objects shrink.
+Result: Morphological erosion was successfully performed, reducing the foreground regions and removing small unwanted details from the image.
