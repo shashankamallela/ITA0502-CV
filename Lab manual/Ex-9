@@ -1,0 +1,6 @@
+Aim: To implement image scaling techniques in Python using OpenCV to resize an image to larger and smaller dimensions.
+Observation:
+- Increasing the image dimensions makes the image larger.
+- Decreasing the dimensions makes the image smaller.
+- Interpolation methods such as linear and cubic interpolation can improve enlargement, while area interpolation is often suitable for shrinking.
+Result: The input image was successfully resized to both larger and smaller dimensions using OpenCV.
