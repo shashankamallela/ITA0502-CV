@@ -1,0 +1,6 @@
+Aim: To implement histogram equalization using OpenCV and compare the enhanced image with the original image.
+Observation:
+- The original image may have low contrast or a narrow distribution of intensity values.
+- Histogram equalization redistributes intensity values to improve contrast.
+- Details in dark and bright regions may become more visible.
+Result: Histogram equalization was successfully implemented, improving the contrast and visibility of details in the input image.
