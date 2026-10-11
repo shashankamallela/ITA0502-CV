@@ -1,0 +1,6 @@
+Aim: To rotate the given image by 270 degrees clockwise using OpenCV.
+Observation:
+- The image rotates by 270 degrees clockwise, which is equivalent to 90 degrees counterclockwise.
+- The image orientation changes.
+- The width and height are interchanged.
+Result: The input image was successfully rotated by 270 degrees clockwise using OpenCV.
