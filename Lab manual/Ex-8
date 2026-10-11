@@ -1,0 +1,6 @@
+Aim: To read an image in Python and perform morphological dilation using the OpenCV dilate() function.
+Observation:
+- Dilation increases the size of foreground objects in a binary image.
+- Small gaps and holes may become smaller.
+- Nearby foreground regions may join together.
+Result: Morphological dilation was successfully performed, expanding foreground regions and filling small gaps in the input image.
