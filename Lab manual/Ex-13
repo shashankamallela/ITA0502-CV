@@ -1,0 +1,6 @@
+Aim: To perform an affine transformation on a given image using Python and OpenCV.
+Observation:
+- Affine transformation can perform translation, rotation, scaling, and shearing.
+- Straight lines remain straight after the transformation.
+- Parallel lines remain parallel, although angles and distances may change.
+Result: The affine transformation was successfully applied to the input image, changing its position, orientation, or shape according to the selected transformation matrix.
