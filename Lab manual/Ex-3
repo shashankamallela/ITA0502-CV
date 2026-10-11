@@ -1,0 +1,6 @@
+Aim: To read an image in Python and detect its edges using the Canny Edge Detection function in OpenCV.
+Observation:
+- The original image contains objects with different intensity and color values.
+- The Canny function identifies significant intensity changes.
+- The output displays object boundaries as edges, generally in white against a black background.
+Result: The edges and outlines of objects in the input image were successfully detected using the Canny Edge Detection algorithm.
