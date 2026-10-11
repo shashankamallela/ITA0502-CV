@@ -1,0 +1,6 @@
+Aim: To design and implement a watermarking technique using OpenCV to insert a watermark into an original image.
+Observation:
+- A watermark may consist of text, a logo, or another image.
+- The watermark is blended or overlaid onto the original image.
+- The watermark's transparency and position affect the visibility of the original image.
+Result: A watermark was successfully inserted into the original image using OpenCV, providing a visible identification mark while retaining the main image content.
