@@ -1,0 +1,6 @@
+Aim: To write a Python function using OpenCV to analyze and display the histogram of an input image based on its color levels.
+Observation:
+- A color image contains Blue, Green, and Red channels.
+- Each channel has intensity levels ranging from 0 to 255.
+- The histogram shows the frequency of pixels at each intensity level for each color channel.
+Result: The color histogram of the input image was successfully calculated and displayed, showing the distribution of intensity levels in the BGR channels.
