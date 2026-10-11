@@ -1,0 +1,6 @@
+Aim: To implement the Sobel algorithm using OpenCV to detect intensity gradients and filter the input image.
+Observation:
+- The Sobel operator calculates intensity gradients in the horizontal and vertical directions.
+- The \(G_x\) output highlights vertical edges, while the \(G_y\) output highlights horizontal edges.
+- Combining the two gradients produces an image showing edges in multiple directions.
+Result: The Sobel algorithm was successfully implemented to detect edges and highlight intensity changes in the input image.
