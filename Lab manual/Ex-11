@@ -1,0 +1,6 @@
+Aim: To rotate the given image by 180 degrees clockwise using OpenCV.
+Observation:
+- The image is turned upside down.
+- The top and bottom portions exchange positions.
+- The image dimensions remain unchanged.
+Result: The input image was successfully rotated by 180 degrees clockwise using OpenCV.
