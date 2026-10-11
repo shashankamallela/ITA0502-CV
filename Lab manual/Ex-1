@@ -1,0 +1,6 @@
+Aim: To read an image in Python using OpenCV and convert the original color image into a grayscale image.
+Observation:
+- The original image contains three color channels: Blue, Green, and Red (BGR).
+- The grayscale image contains only intensity values ranging from 0 to 255.
+- The image appears in shades of black, white, and gray.
+Result: The input color image was successfully read and converted into a grayscale image using OpenCV.
