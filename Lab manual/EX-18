@@ -1,0 +1,7 @@
+Aim: To implement image cropping, copying, and pasting using OpenCV to select and manipulate a region of interest (ROI) from a source image.
+Observation:
+- ROI selects a specific rectangular portion of the original image.
+- Cropping extracts the selected region.
+- The cropped region can be copied and pasted into another image or another location in the same image.
+- The selected coordinates determine the size and position of the ROI.
+Result: The region of interest was successfully selected, cropped, copied, and pasted using OpenCV
