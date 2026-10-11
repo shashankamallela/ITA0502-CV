@@ -1,0 +1,6 @@
+Aim: To read an image in Python and detect its corners using the Harris Corner Detection function in OpenCV.
+Observation:
+- Harris Corner Detection identifies points where image intensity changes significantly in two directions.
+- Corners are usually found at intersections, sharp turns, and object boundaries.
+- Detected corners can be highlighted on the original image.
+Result: The corners in the input image were successfully detected and highlighted using the Harris Corner Detection algorithm.
