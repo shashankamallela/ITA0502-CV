@@ -1,0 +1,7 @@
+Aim: To read a captured video in Python and display it at normal speed, slow motion, and fast motion using OpenCV.
+Observation:
+- The video is processed frame by frame.
+- Slow motion is achieved by displaying frames for longer durations or repeating frames.
+- Fast motion is achieved by reducing the display delay or skipping frames.
+- The playback speed depends on the frame rate and delay used.
+Result: The captured video was successfully read and displayed at normal, slow, and fast playback speeds using OpenCV.
