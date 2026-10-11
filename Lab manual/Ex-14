@@ -1,0 +1,6 @@
+Aim: To perform perspective transformation on a given image using Python and OpenCV.
+Observation:
+- Perspective transformation changes the viewpoint of an image.
+- It can correct perspective distortion, such as a document photographed at an angle.
+- Four corresponding points are generally used to calculate the perspective transformation matrix.
+Result: Perspective transformation was successfully performed, mapping the selected points in the original image to the desired points in the output image.
